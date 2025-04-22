@@ -35,6 +35,7 @@ license: 'CC-BY 4.0'
 # Link to the source repository for this lesson
 # source: 'https://github.com/josenino95/python-text-analysis'
 source: 'https://github.com/UW-Madison-DataScience/python-text-analysis'
+repository: 'https://github.com/UW-Madison-DataScience/python-text-analysis'
 
 
 # Default branch of your lesson
