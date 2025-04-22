@@ -7,7 +7,7 @@ exercises: 20 minutes
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Learn the tasks that NLP can do 
-- Use a pretrained chatbot in python
+- Use a pretrained chatbot in python 
 - Discuss our workflow for performing NLP tasks
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
